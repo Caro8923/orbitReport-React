@@ -1,5 +1,6 @@
 import satData from "./satData";
 import Buttons from "./Buttons";
+import "./styling.css";
 
 const Table = ({ sat }) => {
   return (
